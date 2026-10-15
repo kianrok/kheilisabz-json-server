@@ -1,0 +1,381 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "ماجرا انگلیسی دوازدهم +",
+      "price": 260000,
+      "discount": 320000,
+      "image": "./images/book-1.png",
+      "featured": true,
+      "category": "دوازدهم"
+    },
+    {
+      "id": 2,
+      "title": "فیزیک جامع کنکور",
+      "price": 285000,
+      "discount": 350000,
+      "image": "./images/book-2.png",
+      "featured": true,
+      "category": "کنکور"
+    },
+    {
+      "id": 3,
+      "title": "زیست‌شناسی جامع جلد ۱",
+      "price": 245000,
+      "discount": 300000,
+      "image": "./images/book-3.png",
+      "featured": true,
+      "category": "کنکور"
+    },
+    {
+      "id": 4,
+      "title": "ماجرا دین و زندگی دوازدهم",
+      "price": 320000,
+      "discount": 400000,
+      "image": "./images/book-4.png",
+      "featured": true,
+      "category": "دوازدهم"
+    },
+    {
+      "id": 5,
+      "title": "زیست‌شناسی جامع جلد ۲",
+      "price": 198000,
+      "discount": 240000,
+      "image": "./images/book-5.png",
+      "featured": true,
+      "category": "کنکور"
+    },
+    {
+      "id": 6,
+      "title": "انگلیسی دوازدهم Beast Mode",
+      "price": 215000,
+      "discount": 260000,
+      "image": "./images/book-6.png",
+      "featured": true,
+      "category": "دوازدهم"
+    },
+    {
+      "id": 101,
+      "title": "سررسید ۱۴۰۵ خیلی سبز طرح رنگ زرد To Do",
+      "price": 225000,
+      "discount": 250000,
+      "image": "./images/sug-1.png",
+      "suggested": true,
+      "category": "سررسید"
+    },
+    {
+      "id": 102,
+      "title": "سررسید ۱۴۰۵ خیلی سبز طرح نئونی رنگ سبز زرد",
+      "price": 225000,
+      "discount": 250000,
+      "image": "./images/sug-2.png",
+      "suggested": true,
+      "category": "سررسید"
+    },
+    {
+      "id": 103,
+      "title": "سررسید ۱۴۰۵ خیلی سبز رنگ سبز Calender",
+      "price": 225000,
+      "discount": 250000,
+      "image": "./images/sug-3.png",
+      "suggested": true,
+      "category": "سررسید"
+    },
+    {
+      "id": 104,
+      "title": "سررسید ۱۴۰۵ خیلی سبز طرح رنگ آبی To Do",
+      "price": 225000,
+      "discount": 250000,
+      "image": "./images/sug-4.png",
+      "suggested": true,
+      "category": "سررسید"
+    },
+    {
+      "id": 105,
+      "title": "سررسید ۱۴۰۵ خیلی سبز طرح رنگ صورتی To Do",
+      "price": 225000,
+      "discount": 250000,
+      "image": "./images/sug-5.png",
+      "suggested": true,
+      "category": "سررسید"
+    },
+    {
+      "id": 106,
+      "title": "سررسید ۱۴۰۵ خیلی سبز رنگ بنفش 365",
+      "price": 225000,
+      "discount": 250000,
+      "image": "./images/sug-6.png",
+      "suggested": true,
+      "category": "سررسید"
+    }
+  ],
+  "cart": [],
+  "orders": [],
+  "slides": [
+    {
+      "id": 1,
+      "image": "./images/f98ab9d502f64d50a8a3a69d9a7726ac.png",
+      "alt": "اسلاید ۱",
+      "active": true
+    },
+    {
+      "id": 2,
+      "image": "./images/f98ab9d502f64d50a8a3a69d9a7726ac.png",
+      "alt": "اسلاید ۲",
+      "active": false
+    },
+    {
+      "id": 3,
+      "image": "./images/f98ab9d502f64d50a8a3a69d9a7726ac.png",
+      "alt": "اسلاید ۳",
+      "active": false
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "title": "تست",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 2,
+      "title": "جمع‌بندی",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 3,
+      "title": "موضوعی",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 4,
+      "title": "نردبان",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 5,
+      "title": "چند کنکور",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 6,
+      "title": "فصل آزمون",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 7,
+      "title": "مجموعه کتاب",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 8,
+      "title": "کناکال",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 9,
+      "title": "شب امتحان",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 10,
+      "title": "درک مینی",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 11,
+      "title": "آخته انگشتی",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 12,
+      "title": "اینهوشان",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 13,
+      "title": "مبنا",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 14,
+      "title": "اطلس",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 15,
+      "title": "پیشتاز",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 16,
+      "title": "پویش",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 17,
+      "title": "تربچه",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 18,
+      "title": "خروش خطی",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 19,
+      "title": "مامان بالها",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 20,
+      "title": "قلم به قلم",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 21,
+      "title": "بانک نهایی",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 22,
+      "title": "شیمی شده",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 23,
+      "title": "ماجرا",
+      "image": "./images/jambandi.svg"
+    },
+    {
+      "id": 24,
+      "title": "Beast Mode",
+      "image": "./images/jambandi.svg"
+    }
+  ],
+  "grades": [
+    {
+      "id": 1,
+      "title": "کنکور"
+    },
+    {
+      "id": 2,
+      "title": "جامع"
+    },
+    {
+      "id": 3,
+      "title": "دوازدهم"
+    },
+    {
+      "id": 4,
+      "title": "یازدهم"
+    },
+    {
+      "id": 5,
+      "title": "دهم"
+    },
+    {
+      "id": 6,
+      "title": "نهم"
+    },
+    {
+      "id": 7,
+      "title": "هشتم"
+    },
+    {
+      "id": 8,
+      "title": "هفتم"
+    },
+    {
+      "id": 9,
+      "title": "ششم"
+    },
+    {
+      "id": 10,
+      "title": "پنجم"
+    },
+    {
+      "id": 11,
+      "title": "چهارم"
+    },
+    {
+      "id": 12,
+      "title": "سوم"
+    },
+    {
+      "id": 13,
+      "title": "دوم"
+    },
+    {
+      "id": 14,
+      "title": "اول"
+    },
+    {
+      "id": 15,
+      "title": "پیش‌دبستانی"
+    },
+    {
+      "id": 16,
+      "title": "مهدکودک"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "title": "تمرین دوم نهم",
+      "image": "./images/Rectangle917.64fe34dd.jpg",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "title": "کتاب کار اول دبستان",
+      "image": "./images/Rectangle917.64fe34dd.jpg",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "title": "تربچه‌های تروتازه",
+      "image": "./images/Rectangle917.64fe34dd.jpg",
+      "href": "#"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "کنکور تجربی",
+      "icon": "fas fa-dna"
+    },
+    {
+      "id": 2,
+      "title": "کنکور ریاضی",
+      "icon": "fas fa-calculator"
+    },
+    {
+      "id": 3,
+      "title": "کنکور انسانی",
+      "icon": "fas fa-globe"
+    },
+    {
+      "id": 4,
+      "title": "متوسطه اول",
+      "icon": "fas fa-pencil-alt"
+    },
+    {
+      "id": 5,
+      "title": "ابتدایی",
+      "icon": "fas fa-child"
+    },
+    {
+      "id": 6,
+      "title": "پیش‌دبستانی",
+      "icon": "fas fa-star"
+    }
+  ],
+  "siteInfo": [
+    {
+      "id": 1,
+      "title": "درباره خیلی سبز",
+      "description": "ناشر متفاوت؛ همیشه تلاش می‌کنیم محصولات و خدمات آموزشی متمایز ارائه کنیم."
+    }
+  ]
+}
